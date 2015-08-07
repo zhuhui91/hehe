@@ -1,0 +1,3 @@
+mvn clean 
+1,mvn compile
+2,mvn exec:java -Dexec.mainClass="com.hand.wangluo_xml02.xml02"
