@@ -2,12 +2,12 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.hand</groupId>
-  <artifactId>wangluo_xml03</artifactId>
+  <groupId>ccc</groupId>
+  <artifactId>FGG</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>wangluo_xml03</name>
+  <name>FGG</name>
   <url>http://maven.apache.org</url>
 
   <properties>
@@ -21,5 +21,12 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
+    
+    <dependency>
+    <groupId>dom4j</groupId>
+    <artifactId>dom4j</artifactId>
+    <version>1.4</version>
+</dependency>
+    
   </dependencies>
 </project>
